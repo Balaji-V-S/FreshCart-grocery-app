@@ -99,7 +99,7 @@ const Footer = () => {
             <div>
                 <hr className='border-gray-600' />
                 <div className='text-center flex items-center h-12'>
-                    <span className='text-xs  w-full block text-gray-300 tracking-wider'>© 2024 Developed By Kavitha</span>
+                    <span className='text-xs  w-full block text-gray-300 tracking-wider'>© 2025 Developed By Balaji V S</span>
                 </div>
             </div>
         </footer>
