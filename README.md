@@ -18,4 +18,4 @@ Ready to dive in? Follow these simple steps to get started with the Grocery Appl
 1. **Clone the Repository**  
    Clone the project to your local machine using Git:
    ```bash
-   git clone https://github.com/yourusername/grocery-application.git
+   git clone https://github.com/Balaji-V-S/grocery-master.git
